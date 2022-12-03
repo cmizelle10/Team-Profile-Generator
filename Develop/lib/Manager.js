@@ -11,8 +11,5 @@ class Manager extends Employee {
     }
 }
 
-x = new Manager("Chris", 1, "email", 1234);
-console.log(x);
-
 module.exports = Manager;
 

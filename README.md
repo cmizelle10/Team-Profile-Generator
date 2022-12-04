@@ -29,11 +29,11 @@ To run this application, you must install inquirer (8.2.4), node, path, and fs.
 # Usage
 When you run node index.js in your VS code, you will be prompted with a series of questions in your command line. You will have the opportunity to assign a manager along with any engineers or interns. When you finish assigning team members, a dynamic HTML page will be generated with the team information.
 
-To view a demonstration of using the app, see video included in repo.
+To view a demonstration of using the app, see [video](Team_Builder_Walkthrough.webm)
 # Tests
 There are tests included in the files. Each class (Employee, Manager, Engineer and Intern) have specific tests for their functionality.
 # License
 N/A
 # Contact
-Contact me with any questions via email or github.
+Contact me with any questions via [email](mailto:cmizelle10@gmail.com) or [GitHub](https://github.com/cmizelle10)
 

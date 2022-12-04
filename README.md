@@ -21,3 +21,19 @@ WHEN I select the intern option <br />
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu <br />
 WHEN I decide to finish building my team <br />
 THEN I exit the application, and the HTML is generated
+
+# Description
+This is a node.js command-line application that prompts a user for input regarding a hypothetical engineering team. It will generate a dynamic HTML page based on user input regarding team members and their roles and various information. 
+# Installation
+To run this application, you must install inquirer (8.2.4), node, path, and fs. 
+# Usage
+When you run node index.js in your VS code, you will be prompted with a series of questions in your command line. You will have the opportunity to assign a manager along with any engineers or interns. When you finish assigning team members, a dynamic HTML page will be generated with the team information.
+
+To view a demonstration of using the app, see video included in repo.
+# Tests
+There are tests included in the files. Each class (Employee, Manager, Engineer and Intern) have specific tests for their functionality.
+# License
+N/A
+# Contact
+Contact me with any questions via email or github.
+
